@@ -29,7 +29,7 @@ const questions = [
     answers: [
       "A. Trần Đức",
       "B. AndyNgoJs",
-      "C. Nguyễn Kỳ Anh",
+      "C. Nguyễn Minh Quang",
       "D. A.D Đông Ngô",
     ],
     correct: 2,
